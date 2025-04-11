@@ -1,7 +1,7 @@
 # python_work
 This repository contains my Python exercises
 
-## Python Practice
+## Python Basic
 
 In my frist python file, I included basic things.
 
